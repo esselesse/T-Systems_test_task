@@ -11,6 +11,7 @@ The exam includes 3 tasks to be done: [Calculator](/tasks/Calculator.md), [Pyram
 * Author name : Viktor Fridman
 * Codeship : [![Codeship Status for esselesse/javaschoolexam](https://app.codeship.com/projects/d5485bd0-5cb1-0138-2d7e-1aad78f090f0/status?branch=master)](https://app.codeship.com/projects/392062)
 
+May be useful:
 
-* [Learn Markdown](https://bitbucket.org/tutorials/markdowndemo)
-* [Codeship](https://codeship.com)
+[Learn Markdown](https://bitbucket.org/tutorials/markdowndemo) and 
+[Codeship](https://codeship.com)
